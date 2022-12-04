@@ -1,45 +1,47 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-* Player  Leopold :   
-* Team:   Lights Out
-* Factions used: Leagues of Votann  
+* Player #:   Andrew N
+* Team: Lights Out 
+* Factions used: Aeldari - Craftworlds  
   
-* Army points: 2000  
+* Army points: 1999  
 * Reinforcement Points: none pts  
-* Number of Units / Killpoints: 13  
+* Number of Units / Killpoints: 15  
   
-* Pre Game Stratagems:   Warlord trait; Relic; Legend of the League; In the Right Hands
-
-* Starting Command Points: 1  
+* Pre Game Stratagems: Relics of the Shrines (-1 CP)  WL trait (-1 CP) Relic (-1 CP)
+* Starting Command Points: 3  
   
-* Warlord:  High Kâhl 
+* Warlord:   Farseer
   
-* Army Trait:   Urani-Surtr Regulates
+* Army Trait:   Strength from death
   
 * Secondary Objectives Information  
-* Assassination: 10  
-* Bring it Down: 2  
-* No Prisoners: 10  
-* Abhor the Witch: 3  
+* Assassination: 13  
+* Bring it Down: 8  
+* No Prisoners: 7  
+* Abhor the Witch: 15  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
   
-== Urani-Surtr Regulates Battalion Detachment = 0 CP, [84 PL, 2000 pts] ==  
+== Ynnari: Strength From Death Battalion Detachment = 0 CP, [104 PL, 1999 pts] ==  
   
-HQ: Einhyr Champion [5 PL, 120 pts] Autoch-pattern combi-bolter, Exactor, Mass hammer, Stratagem: In the Right Hands, Stratagem: Legend of the League, Warrior Lord, Weavefield crest  
-HQ: 2 Grimnyr [4 PL, 90 pts] Ancestral ward stave, 2xCORV (Autoch-pattern bolter), Fortify, Interface Echo, Smite  
-HQ: High Kâhl [6 PL, 130 pts] Forgewrought plasma axe, Grim Pragmatism, High Kâhl, Rampart crest, Stratagem: Relic, Stratagem: Warlord Trait, The Abiding Mantle, Volkanite disintegrator, Warlord  
+HQ: Farseer [5 PL, 95 pts] 1. Fateful Divergence, 5. Focus Will, Shuriken Pistol, Smite, Warlord, Witchblade  
+HQ: Farseer Skyrunner [6 PL, 125 pts] 1: Ambush of Blades, 2. Storm of Whispers (Witchfire), 4. Crushing Orb, Shuriken Pistol, Smite, Stratagem: Champion of the Aeldari, Stratagem: Relic, Sunstorm (Treasures of the Aeldari Relic), Twin Shuriken Catapult, Witchblade  
+HQ: The Yncarne [13 PL, 260 pts] 1. Gaze of Ynnead (Witchfire), 2. Storm of Whispers (Witchfire), 3. Word of the Phoenix (Blessing), 4. Unbind Souls (Malediction), 5. Shield of Ynnead (Blessing), 6. Ancestors' Grace (Blessing), Swirling Soul Energy, Vilith-zhar, the Sword of Souls  
   
-TR: 10 Hearthkyn Warriors w/ bolters [7 PL, 165 pts] Theyn (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), 4xWarrior (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), Warrior w/ comms array (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Multiwave comms array), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, Magna-rail rifle), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, L7 missile launcher), Warrior w/ medipack (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Medipack), Warrior w/ scanner (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Pan spectral scanner)  
-TR: 10 Hearthkyn Warriors w/ bolters [7 PL, 165 pts] Theyn (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), 4xWarrior (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), Warrior w/ comms array (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Multiwave comms array), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, Magna-rail rifle), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, L7 missile launcher), Warrior w/ medipack (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Medipack), Warrior w/ scanner (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Pan spectral scanner)  
-TR: 10 Hearthkyn Warriors w/ bolters [7 PL, 165 pts] Theyn (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), 4xWarrior (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades), Warrior w/ comms array (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Multiwave comms array), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, Magna-rail rifle), Warrior w/ heavy weapon (Autoch-pattern bolt pistol, Gravitic concussion grenades, L7 missile launcher), Warrior w/ medipack (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Medipack), Warrior w/ scanner (Autoch-pattern bolt pistol, Autoch-pattern bolter, Gravitic concussion grenades, Pan spectral scanner)  
+TR: 5 Rangers [4 PL, 65 pts] 5xRanger (Ranger Long Rifle, Shuriken Pistol)  
+TR: 5 Rangers [4 PL, 65 pts] 5xRanger (Ranger Long Rifle, Shuriken Pistol)  
+TR: 8 Troupe [9 PL, 129 pts] Lead Player (Harlequin's Kiss, Plasma Grenades, Shuriken Pistol), Player (Harlequin's Caress, Plasma Grenades, Shuriken Pistol), 2xPlayer (Harlequin's Embrace, Plasma Grenades, Shuriken Pistol), Player (Harlequin's Kiss, Plasma Grenades, Shuriken Pistol), 3xPlayer (Harlequin's Blade, Plasma Grenades, Shuriken Pistol)  
   
-EL: 5 Cthonian Berserks w/ heavy plasma axes [5 PL, 150 pts] 5xBerserk (Heavy plasma axe)  
-EL: 5 Cthonian Berserks w/ heavy plasma axes [5 PL, 150 pts] 5xBerserk (Heavy plasma axe)  
-EL: 5 Hearthguard w/ disintegrators and concussion gauntlets [9 PL, 235 pts] 4xHearthguard (Concussion gauntlet, Exo-armour grenade launcher, Volkanite disintegrator), Hesyr (Concussion hammer, Exo-armour grenade launcher, Stratagem: Bequest of the Votann, Teleport crest, Volkanite disintegrator, Wârpestryk)  
+EL: 5 Howling Banshees [5 PL, 110 pts] 4xHowling Banshee (Banshee Blade, Shuriken Pistol), Howling Banshee Exarch (Cronescream (Shrine Relic) (Aspect Shrine Relic), Mirrorswords, Piercing Strikes)  
+EL: 5 Striking Scorpions [5 PL, 110 pts] 4xStriking Scorpion (Mandiblasters, Scorpion Chainsword, Shuriken Pistol), Striking Scorpion Exarch (Biting Blade, Crushing Blows, Mandiblasters)  
+EL: Warlock Skyrunners [3 PL, 60 pts] 4. Protect/Jinx, Smite, Warlock Skyrunner (Shuriken Pistol, Twin Shuriken Catapult, Witchblade)  
+EL: 2 Warlocks [3 PL, 40 pts] 5. Quicken/Restrain, Smite, 2xWarlock (Shuriken Pistol, Witchblade)  
   
-FA: 3 Hernkyn Pioneers [5 PL, 125 pts] Pioneer w/ HYLas rotary cannon (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, HYLas rotary cannon, Magna-coil autocannon), Pioneer w/ comms array (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, Magna-coil autocannon, Multiwave comms array), Pioneer w/ scanner (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, Magna-coil autocannon, Pan spectral scanner)  
-FA: 3 Hernkyn Pioneers [5 PL, 125 pts] Pioneer w/ HYLas rotary cannon (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, HYLas rotary cannon, Magna-coil autocannon), Pioneer w/ comms array (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, Magna-coil autocannon, Multiwave comms array), Pioneer w/ scanner (Bolt revolver, Bolt shotgun, Gravitic concussion grenades, Magna-coil autocannon, Pan spectral scanner)  
-FA: 2 Sagitaur Squadron [14 PL, 260 pts] 2xSagitaur (MATR autocannon, Twin bolt cannon)  
+FA: 3 Shining Spears [6 PL, 130 pts] 2xShining Spear (Laser Lance, Twin Shuriken Catapult), Shining Spear Exarch (Heartstrike, Khaine's Lance (Shrine Relic) (Aspect Shrine Relic), Paragon Sabre, Shimmershield, Shuriken Cannon)  
+FA: 5 Skyweavers [12 PL, 275 pts] 5xSkyweaver (Skyweaver Haywire Cannon, Zephyrglaive)  
   
-HS: 3 Brôkhyr Thunderkyn w/ bolt cannons [5 PL, 120 pts] 3xBrôkhyr Thunderkyn (Bolt cannon)  
+HS: Falcon [9 PL, 145 pts] Pulse Laser, Scatter Laser, Twin Shuriken Catapult  
   
-END OF ROSTER  
+FL: Hemlock Wraithfighter [11 PL, 215 pts] 2. Storm of Whispers (Witchfire), 2xHeavy D-scythe  
+FL: Voidraven Bomber [9 PL, 175 pts] As Detachment, Two void lances (2xVoid lance), Void mine  
+  
+END OF ROSTER
